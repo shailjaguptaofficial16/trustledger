@@ -1,0 +1,14 @@
+{
+  "name": "trustledger",
+  "private": true,
+  "scripts": {
+    "chain": "hardhat node"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.3"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.7"
+  }
+}
